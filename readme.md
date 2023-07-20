@@ -39,4 +39,4 @@ https://api.dler.io/sub?target=surfboard&url=https://raw.githubusercontent.com/y
 .
 ### [⭐️ Jump to another project (updated more frequently)](https://apps.apple.com/cn/app/%E5%9B%BD%E5%AE%B6%E5%8F%8D%E8%AF%88%E4%B8%AD%E5%BF%83/id1552823102)
 
-### 订阅转换：https://acl4ssr-sub.github.io/
+### Subscription conversion：https://acl4ssr-sub.github.io/
