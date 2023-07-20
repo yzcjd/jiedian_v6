@@ -1,6 +1,6 @@
 ## Updated with edge, available or unavailable~
 .
-## IPV6 only.If your home broadband doesnot have a public network IP, it will not work.
+## IPV6 only.If your home broadband does not have a public network IP, it will not work.
 .
 ### [⭐️ TG Resources Channel](https://t.me/yzc020) [⭐️ TG Nodes Channel](https://t.me/yzcjd)
 
