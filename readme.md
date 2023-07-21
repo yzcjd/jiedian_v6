@@ -1,4 +1,4 @@
-## Updated with edge, available or unavailable~
+## Updated randomly, available or unavailable~
 .
 ## IPV6 only.If your home broadband does not have a public network IP, it will not work.
 .
