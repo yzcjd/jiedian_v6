@@ -12,7 +12,7 @@
 <summary> ShadowRocket、V2Ray subscription（include Vless nodes）</summary>
 
 ```
-https://raw.githubusercontent.com/yzcjd/jiedian_v6/main/aabaaaba
+https://raw.githubusercontent.com/yzcjd/proxy_v6/main/aabaaaba
 ```
 </details>
 
@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/yzcjd/jiedian_v6/main/aabaaaba
 <summary>Clash subscription（include SSR nodes） </summary>
 
 ```
-https://api.dler.io/sub?target=clash&url=https://raw.githubusercontent.com/yzcjd/jiedian_v6/main/aabaaaba&config=https%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fproxy-rules%2Fmain%2Fclash.ini&filename=%E7%94%B5%E6%8A%A5%40yzcjd%20%E6%89%8B%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%8F%AF%E7%94%A8&emoji=true&list=false&udp=true&tfo=false&scv=true&fdn=true&sort=true
+https://api.dler.io/sub?target=clash&url=https://raw.githubusercontent.com/yzcjd/proxy_v6/main/aabaaaba&config=https%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fproxy-rules%2Fmain%2Fclash.ini&filename=%E7%94%B5%E6%8A%A5%40yzcjd%20%E6%89%8B%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%8F%AF%E7%94%A8&emoji=true&list=false&udp=true&tfo=false&scv=true&fdn=true&sort=true
 ```
 </details>
 
@@ -28,7 +28,7 @@ https://api.dler.io/sub?target=clash&url=https://raw.githubusercontent.com/yzcjd
 <summary>Surfboard、Surge subscription </summary>
 
 ```
-https://api.dler.io/sub?target=surfboard&url=https://raw.githubusercontent.com/yzcjd/jiedian_v6/main/aabaaaba&config=https%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fproxy-rules%2Fmain%2Fsurfboard.ini&filename=%E7%94%B5%E6%8A%A5%40yzcjd%20%E6%89%8B%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%8F%AF%E7%94%A8&emoji=true&list=false&udp=true&tfo=false&scv=true&fdn=true&sort=false
+https://api.dler.io/sub?target=surfboard&url=https://raw.githubusercontent.com/yzcjd/proxy_v6/main/aabaaaba&config=https%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fproxy-rules%2Fmain%2Fsurfboard.ini&filename=%E7%94%B5%E6%8A%A5%40yzcjd%20%E6%89%8B%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%8F%AF%E7%94%A8&emoji=true&list=false&udp=true&tfo=false&scv=true&fdn=true&sort=false
 ```
 </details>
 
